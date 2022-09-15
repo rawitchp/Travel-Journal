@@ -1,0 +1,70 @@
+.place-container {
+    height: 300px;
+    width: 500px;
+    /* background-color: bisque; */
+    /* text-align: center; */
+    padding: 25px ;
+    margin: 0px auto;
+    /* text-align: center; */
+    display: flex;
+}
+
+.img {
+    height: 300px;
+    width: 220px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+img {
+    height: 300px;
+}
+
+.place-content {
+    height: 200px;
+    display: inline-block;
+    width: 300px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.location {
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.country {
+    display: inline-block;
+    padding: 0px 3.5px;
+    font-size: 14px;
+    color: rgb(100, 100, 100);
+    letter-spacing: 1.5px;
+}
+
+.map {
+    padding-left: 10px;
+    color: rgb(167, 166, 166);
+}
+
+.name {
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 22px;
+}
+
+.date {
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 7px;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.line {
+    width: 700px;
+}

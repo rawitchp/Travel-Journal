@@ -1,0 +1,31 @@
+
+
+.navbar-container {
+    height: 70px;
+    background-color: rgb(237, 80, 80);
+    color: white;
+    font-weight: 800;
+    
+}
+
+.navbar-content {
+    position: relative;
+    /* display: flex; */
+    text-align: center;
+    height: 70px;
+    margin-left: 40%;
+    width: 20%;
+    padding: 0px 10px;
+}
+
+.global-logo {
+    margin: 18px 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.navbar-text {
+    /* margin-top: 13px; */
+    display: inline-block;
+    vertical-align: middle;
+}
