@@ -5,7 +5,6 @@
     background-color: rgb(237, 80, 80);
     color: white;
     font-weight: 800;
-    
 }
 
 .navbar-content {
@@ -13,9 +12,12 @@
     /* display: flex; */
     text-align: center;
     height: 70px;
-    margin-left: 40%;
-    width: 20%;
+    /* width: 100%; */
+    /* margin-left: 40%; */
+    width: 300px;
     padding: 0px 10px;
+    margin: auto auto;
+    
 }
 
 .global-logo {
